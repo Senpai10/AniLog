@@ -28,9 +28,6 @@ pod install
 
 ## Screenshots
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
 | Home | Schedule | Anime information | Search | Settings |
 | ------ | ------ | ------ | ------ | ------ | 
 | ![Alt text](Screenshots/Home.png?raw=true "Home") | ![Alt text](Screenshots/Schedule.png?raw=true "Schedule") | ![Alt text](Screenshots/Anime_informations.png?raw=true "Home") | ![Alt text](Screenshots/Search.png?raw=true "Home") | ![Alt text](Screenshots/Settings.png?raw=true "Home")
