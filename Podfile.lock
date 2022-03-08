@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.5.0)
+  - DynamicBlurView (4.1.0)
+  - PanModal (1.2.7)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - PanModal
+  - PopupDialog (~> 1.1)
+  - Reusable
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DynamicBlurView
+    - PanModal
+    - PopupDialog
+    - Reusable
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  DynamicBlurView: 58e18fae80bb614e34681a4486870e7d257b62e8
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 33102220ccd91d1b8e929d0f30c55752c7ca4e21
+
+COCOAPODS: 1.11.2
